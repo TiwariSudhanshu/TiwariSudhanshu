@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,solidity,hardhat,git,github,vscode,vercel,tailwind,redux,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,solidity,hardhat,git,github,vscode,vercel,tailwind,redux,postman" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 <div align="center">
   <p>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=TiwariSudhanshu&icon=3&color=6" alt="profile view counter">
+      <img src="https://komarev.com/ghpvc/?username=TiwariSudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter">
     </a>
   </p>
 </div>
@@ -101,5 +101,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <hr>
-<p>Credit: <a href="https://github.com/TiwariSudhanshu">TiwariSudhanshu</a></p>
-<p>Last Edited on: 5/6/2025</p>
+
