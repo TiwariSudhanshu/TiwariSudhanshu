@@ -1,4 +1,9 @@
 <!--horizontal divider(gradiant)-->
+<div align="center">
+  <img src="https://i.pinimg.com/736x/9b/74/f6/9b74f61609a2f2b332d59e366e4a319e.jpg" alt="profile" width="150" style="border-radius: 50%; box-shadow: 0 4px 10px  margin-top: 20px;" />
+
+  
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -9,9 +14,6 @@
 </div>
 
 <!-- snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake">
-</div>
 
 
 <!--h2 without bottom border-->
