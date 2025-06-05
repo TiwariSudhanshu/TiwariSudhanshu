@@ -10,8 +10,9 @@
 
 <!-- snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake">
 </div>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -24,10 +25,8 @@
 <ul>
   <li>🚀 Full Stack & Blockchain Developer</li>
   <li>🧠 Exploring <strong>Ethereum & Solana</strong> — Building dApps, NFT tools & smart contracts</li>
-  <li>🌐 MERN Stack Dev — Worked on Ice Cream Store, Travel Agency, Shoe Store, and HealthTech projects</li>
-  <li>🎯 Web3 Hackathon Finalist | Ranked 4th in Buildathon by Bhopal DAO & AirDAO</li>
-  <li>💡 Currently working on <strong>AI-powered Traffic System</strong> and <strong>NGO Blockchain Scholarship Platform</strong></li>
-  <li>📫 Reach me: <strong><a href="mailto:tiwarisudhanshuofficial@gmail.com">tiwarisudhanshuofficial@gmail.com</a></strong></li>
+  <li>🌟 Check out my portfolio: <a href="https://www.tiwarisudhanshu.me" target="_blank">https://www.tiwarisudhanshu.me</a></li>
+  <li>📫 Reach me: <strong><a href="mailto:sudhanshutiwari9836@gmail.com">tiwarisudhanshuofficial@gmail.com</a></strong></li>
   <li>🤝 Connect with me on socials below!</li>
 </ul>
 <!-- Intro end -->
@@ -89,13 +88,6 @@
 </p>
 
 <!-- Profile views -->
-<div align="center">
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://komarev.com/ghpvc/?username=TiwariSudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter">
-    </a>
-  </p>
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
