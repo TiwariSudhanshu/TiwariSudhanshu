@@ -28,7 +28,7 @@
   <li>🚀 AI & Blockchain Developer</li>
   <li>🧠 Exploring <strong>Ethereum & Solana</strong> — Building dApps, NFT tools & smart contracts</li>
   <li>🌟 Check out my portfolio: <a href="https://sudhanshu0x.dev" target="_blank">https://sudhanshu0x.dev</a></li>
-  <li>📫 Reach me: <strong><a href="mailto:sudhanshutiwari9836@gmail.com">sudhanshutiwari9836@gmail.com</a></strong></li>
+  <li>📫 Reach me: <strong><a href="mailto:sudhanshutiwari9836@gmail.com">sudhanshu@easydevs.tech</a></strong></li>
   <li>🤝 Connect with me on socials below!</li>
 </ul>
 <!-- Intro end -->
